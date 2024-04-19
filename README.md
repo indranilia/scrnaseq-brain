@@ -1,5 +1,5 @@
 # scrnaseq-brain
-This is a repository for applying a single-cell RNA-sequencing pipeline to mice brain cell dataset.
+This is a repository for applying a single-cell RNA-sequencing pipeline to mice neuron dataset.
 
 ##Instructions
 You can download the dataset [here](https://github.com/chanzuckerberg/scRNA-python-workshop/blob/master/content/data.zip) and my notebook from this repository to replicate all necessary analyses. The notebook will run on Google Colab as long as you upload the datasets onto the Drive. 
