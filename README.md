@@ -2,7 +2,7 @@
 This is a repository for applying a single-cell RNA-sequencing pipeline to mice brain cell dataset.
 
 ##Instructions
-You can download the dataset and notebook to replicate all necessary analyses. The notebook will run on Google Colab as long as you upload the dataset onto the Drive. 
+You can download the dataset [here](https://github.com/chanzuckerberg/scRNA-python-workshop/blob/master/content/data.zip) and my notebook from this repository to replicate all necessary analyses. The notebook will run on Google Colab as long as you upload the datasets onto the Drive. 
 
 ## Description
 Yousry, one of my classmates, developed a single-cell RNA-sequencing (sc-RNA-seq) pipeline for his portfolio project. I found this topic deeply fascinating, so this project is my extension of Yoursry's project for brain cells (Elsadec, 2024). You can read more about his project [here](https://medium.com/@mohamed.y.elsadec_56085/a-comparative-analysis-of-clustering-scrna-seq-data-using-pca-based-and-gnn-driven-approaches-24c9fb8d5ec8).
